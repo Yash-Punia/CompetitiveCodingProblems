@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537775780 source:d:\programming\projects\equilateraltriangelstar\main.c
+	<stdio.h>
+	<stdlib.h>
+

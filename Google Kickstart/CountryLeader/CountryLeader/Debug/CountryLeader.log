@@ -1,0 +1,3 @@
+﻿  CountryLeader.cpp
+d:\programming\google kickstart\countryleader\countryleader\countryleader.cpp(11): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1168: cannot open D:\Programming\Google Kickstart\CountryLeader\Debug\CountryLeader.exe for writing

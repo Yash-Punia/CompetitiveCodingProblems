@@ -1,0 +1,3 @@
+﻿  HumansVsSkeletons.cpp
+d:\programming\projects\humansvsskeletons\humansvsskeletons\humansvsskeletons.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HumansVsSkeletons.vcxproj -> D:\Programming\Projects\HumansVsSkeletons\Debug\HumansVsSkeletons.exe
